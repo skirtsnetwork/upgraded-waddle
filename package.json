@@ -1,14 +1,14 @@
 {
-  "name": "artclass",
+  "name": "nitrogenmath",
   "version": "3.0.0",
-  "description": "Art Class v3",
+  "description": "Nitrogen Proxy",
   "type": "module",
   "engines": {
     "npm": ">=8.0.0",
     "node": ">=18.0.0"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node src/index.js"
   },
   "keywords": [
     "proxy"
